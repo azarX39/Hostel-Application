@@ -1,0 +1,8 @@
+alazhar,Brufin,10,500.0, 
+alazhar,Desprine,2,60.0, 
+alazhar,Ismo pra Zol,10,300.0, 
+Ali,Brufin,3,150.0, 
+Ali,Brufin,12,600.0, 
+alazhar,Panadol,2,60.0, 
+alazhar,Panadol,335435,10063050.0, 
+Noor,Panadol1,10,200.0, 

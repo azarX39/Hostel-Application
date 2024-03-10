@@ -1,0 +1,5 @@
+alazhar,Bukit Jalil,alazhara113@gmail.com,01131529847,M,28/12/2001,1234,1234,  
+Bool,KL,bool22@gmail.com,01131549287,M,11/06/2003,1234,1234, 
+Ali,Damnsara,ali223@gmail.com,01132598347,F,11/06/2002,1234,1234, 
+Muna,Kl,muna@Gmail..com,0112842785,F,11/04/2013,1234,1234, 
+Noor,noor@gmail.com,noor@gmail.com,0112383893,F,11/05/2001,1234,1234, 
